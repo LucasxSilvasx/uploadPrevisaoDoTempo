@@ -13,7 +13,8 @@ body {
     width: 100vw; /*Largura*/
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
+    
 
 
 }
